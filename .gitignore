@@ -2,4 +2,4 @@
 assets/
 argon-dashboard-master/
 
-config.json
+./*.json
