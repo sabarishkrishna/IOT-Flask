@@ -1,0 +1,6 @@
+{
+    "mongodb_connection_string": "mongodb+srv://sabarishkrishna71:Password123@iotcloud.speaadk.mongodb.net/",
+    "mongodb_database": "iotcloud",
+    "basename": "/iotcloud",
+    "secret_key": "laijtlirjteijtirejt"
+}

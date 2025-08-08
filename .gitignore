@@ -1,0 +1,3 @@
+#ignore the files from assets that contains all the front end dashboard.
+assets/
+argon-dashboard-master/
